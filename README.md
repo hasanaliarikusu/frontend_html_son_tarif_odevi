@@ -1,5 +1,3 @@
-# frontend_html_son_tarif_odevi
-html son tarif ödevi
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -34,7 +32,6 @@ html son tarif ödevi
                 <li>1 su bardağı fındık (opsiyonel)</li>
                 <li>50 gram tereyağı veya margarin</li>             
             </ul>
-
     </article>
 
     <article>
