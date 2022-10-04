@@ -14,12 +14,9 @@
             <p> <strong> <em>Limonun ekşiliği ile cheesecake'in tatlılığı bir araya geliyor ve  ortaya kahve ve çay saatlerinizin vazgeçilmezi olacak bir tatlı ortaya çıkıyor! Yumuşak kreması ve mis kokulu alt tabanı ile gerçekten nefis bir lezzet olan bu tarifi</em></strong> 
             </p>
         <img src="cheesecake.jfif" alt="cheesecake">
-        
     </nav>
 </header>
-
 <!--Navbar-End--->
-
 <!--Content-Start--->
 <hr>
 <section>
@@ -33,7 +30,6 @@
                 <li>50 gram tereyağı veya margarin</li>             
             </ul>
     </article>
-
     <article>
         <h3 style="color:blueviolet;"><em>Kreması İçin:</em></h3>
             <ul>
@@ -47,9 +43,7 @@
                 <li>1 limonun kabuğu</li>
                 <li>Yarım limonun suyu</li>             
             </ul>
-
     </article>
-
     <article>
         <h3 style="color:blueviolet;"><em>Limonlu Sos İçin:</em></h3>
             <ul>
@@ -61,18 +55,14 @@
                 <li>Limon kabuğu rendesi (opsiyonel)</li>
                 <li>1 paket vanilya</li>             
             </ul>
-
     </article>
-
     <article>
         <h3 style="color:blueviolet;"><em>Süslemek İçin:</em></h3>
             <ul>
                 <li>Antepfıstığı</li>
             </ul>
 <hr>
-
     </article>
-
     <article>
         <h3 style="color:Tomato;"><em>Tarif</em></h3>
             <ol>
@@ -93,23 +83,18 @@
                 <li> <strong>Limonlu sos için:</strong>  Vanilya hariç tüm malzemeleri küçük bir tencerede karıştırın ve ocağa oturtun, kaynayana kadar kısık ateşte devamlı karıştırarak pişirin.</li>
                 <li>Altını kapatınca vanilyayı ekleyin. Ilınınca soğumuş cheesecakein üzerine dökebilirsiniz.</li>
                 <li>Mutlaka buzdolabında 3-4 saat dinlendirdikten sonra servis yapın, afiyet olsun :)</li>
-                </li>
-             
+                </li>   
             </ol>
-
     </article>
     <!--Artice-End--->
 </section>
 <!--Content-End--->
-
 <!--Footer-Start--->
 <footer>
     <nav>
         <p><a href="#limon">Başa Dön</a></p>
-
     </nav>
 </footer>
 <!--Footer-End---> 
-
 </body>
 </html>
